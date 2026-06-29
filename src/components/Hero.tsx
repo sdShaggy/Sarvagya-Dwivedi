@@ -144,7 +144,7 @@ export default function Hero() {
           <div className="flex justify-center lg:justify-center lg:-translate-y-20">
             <div className="group relative -mt-16 overflow-hidden rounded-3xl">
               <img
-                src="/images/personal/prof_linkedin.jpeg"
+                src="images/personal/prof_linkedin.jpeg"
                 alt={PROFILE.name}
                 loading="eager"
                 draggable={false}
