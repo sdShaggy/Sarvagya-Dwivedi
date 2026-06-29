@@ -202,7 +202,7 @@ export default function Gallery() {
     }, []);
 
     return (
-        <section id="gallery" className="py-20 px-5 sm:px-8 max-w-6xl mx-auto">
+        <section id="gallery" className="scroll-mt-16 py-20 px-5 sm:px-8 max-w-6xl mx-auto">
             <Reveal>
                 <SectionHeading title="Gallery" />
             </Reveal>
