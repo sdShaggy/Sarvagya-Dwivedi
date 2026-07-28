@@ -14,7 +14,7 @@ export default function Hero() {
           <Reveal>
             <div className="inline-flex items-center gap-2 text-xs px-3 py-1.5  border-border text-ink font-mono mb-7">
               <span className="w-1.5 h-1.5 full bg-ink" />
-              Open to AI/ML & Software Engineering Roles
+              Open to AI/ML, Data Science & Software Engineering Roles
             </div>
           </Reveal>
 

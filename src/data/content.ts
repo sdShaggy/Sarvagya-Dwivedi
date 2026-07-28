@@ -169,12 +169,26 @@ export const CERTIFICATIONS: Certification[] = [
     href:"https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_69a58e9886615e42aba27129_1780928913791_completion_certificate.pdf",
     logos: ["images/certi/images.jpg","images/certi/forage.jpg"],
     },
+    { title: "Fundamentals of Docker and Kubernetes", 
+    issuer: "Scaler", 
+    credentialId: "AiP__npj19",
+    date: "Jul 2026",
+    href:"https://moonshot.scaler.com/s/sl/AiP__npj19",
+    logos: ["images/certi/scaler.jpeg"],
+    },
   { title: "Android App Development using Kotlin", 
     issuer: "Celesta, IIT Patna", 
     credentialId: "TB-CELESTA24-IITP-AAD-058",
     date: "Oct 2024",
     href:"https://drive.google.com/file/d/1qaSo39TVwHr6XG7ZNbvZx1HFc5FCmwlI/view?usp=drivesdk",
     logos: ["images/certi/celesta.jpg"],
+    },
+    { title: "Digital Productivity with AI", 
+    issuer: "UNICEF", 
+    credentialId: "2946863_37_bu5jz",
+    date: "Jul 2026",
+    href:"https://skills.myp2e.org/storage/certificates/Certificate_2946863_37_bu5jz.pdf?sv=2019-07-07&sr=b&sig=CDrqgvUL%2Fu%2FP%2FeUs6s2023hKYpSFqwerttkWhVWyhdY%3D&se=2026-07-25T15%3A12%3A25Z&sp=r",
+    logos: ["images/certi/unicef.jpg"],
     },
 ];
 
@@ -226,13 +240,13 @@ export const Organizations = [
 export const EXPERIENCE = {
   company: "Veridian Carbon",
   role: "Engineering Intern · Remote",
-  date: "May 2026 — Present",
+  date: "May 2026 — Jul 2026",
   logo: "images/experience/android-chrome-512x512.png",
   bullets: [
     "Developing and enhancing production web applications and platform features using React, TypeScript, Tailwind CSS, and Node.js.",
     "Collaborating directly with engineering leadership to design, implement, and ship platform enhancements in an early-stage startup environment.",
   ],
-  stack: ["React", "TypeScript", "Tailwind CSS", "Node.js","Git", "GitHub"],
+  stack: ["React", "TypeScript", "Tailwind CSS", "Node.js","Git", "GitHub", 'Software Engineering'],
 };
 
 export const EDUCATION: EducationEntry[] = [
