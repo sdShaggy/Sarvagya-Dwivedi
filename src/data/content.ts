@@ -15,7 +15,7 @@ export const PROFILE = {
   email: "sarvagyadwivedi0308@gmail.com",
   github: "https://github.com/sdShaggy",
   linkedin: "https://www.linkedin.com/in/sarvagya-dwivedi-4b1934295",
-  resumeHref: "https://drive.google.com/file/d/1gSK254XdmzHBRkPVMjJZYPew_9WSl0eO/view?usp=sharing", 
+  resumeHref: "https://drive.google.com/file/d/1lBzn5PNYUUtq-qaYnNUWSoVZQyeBIbRX/view?usp=sharing", 
   tagline:
     "Computer Science undergraduate building end-to-end ML and multimodal AI systems, from forecasting pipelines to GenAI & RAG.",
 };
@@ -141,11 +141,25 @@ export const SKILLS: SkillGroup[] = [
 ];
 
 export const CERTIFICATIONS: Certification[] = [
+  { title: "Oracle Agentic AI Certified Foundations Associate",
+      issuer: "Oracle",
+      credentialId: "OC7932032",
+      date: "August 2026",
+      href:"https://catalog-education.oracle.com/ords/certview/sharebadge?id=CDF056B320897A8821A409FB059CBE5088BD3F01B24EFD3A0EFF98D8B8A0E605",
+      logos: ["images/certi/oracle.jpg"], 
+    },
+  { title: "ML Summer School 2026",
+      issuer: "Cohere Labs",
+      credentialId: "fba58022-0716-44ba-ab67-99679f3da96c",
+      date: "August 2026",
+      href:"https://drive.google.com/file/d/1CPI58jYeUy4FurUl643A7k9tjAscSp5Q/view?usp=drivesdk",
+      logos: ["images/certi/cohere_labs_logo.jpg"], 
+    },
   { title: "OCI 2025 Certified AI Foundations Associate",
       issuer: "Oracle",
       credentialId: "OC7932032",
       date: "Jan 2026",
-      href:"https://drive.google.com/file/d/1CPI58jYeUy4FurUl643A7k9tjAscSp5Q/view?usp=drivesdk",
+      href:"https://catalog-education.oracle.com/ords/certview/sharebadge?id=131B887470B01391859F86C6A497AEE391C47109B693B47D24F92973D51FAE49",
       logos: ["images/certi/oracle.jpg"], 
     },
   { title: "Summer Training, AI & Robotics", 

@@ -40,11 +40,11 @@ function CertCard({ c }: { c: Certification }) {
       </p>
 
       {/* Credential ID */}
-      <div className="mt-4 pt-3 border-t border-border-soft flex items-center justify-between text-sm">
-        <span className="text-mute">Credential ID</span>
-        <span className="font-mono text-ink text-[12px] tracking-wide">
+      <div className="mt-4 pt-3 border-t border-border-soft">
+        <div className="text-[11px] text-mute font-mono mb-0.5">Credential ID</div>
+        <div className="font-mono text-ink text-[11px] tracking-wide break-all">
           {c.credentialId}
-        </span>
+        </div>
       </div>
 
       <div className="flex-1" />
