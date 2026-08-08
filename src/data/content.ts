@@ -152,7 +152,7 @@ export const CERTIFICATIONS: Certification[] = [
       issuer: "Cohere Labs",
       credentialId: "fba58022-0716-44ba-ab67-99679f3da96c",
       date: "August 2026",
-      href:"https://drive.google.com/file/d/1CPI58jYeUy4FurUl643A7k9tjAscSp5Q/view?usp=drivesdk",
+      href:"https://credsverse.com/credentials/fba58022-0716-44ba-ab67-99679f3da96c",
       logos: ["images/certi/cohere_labs_logo.jpg"], 
     },
   { title: "OCI 2025 Certified AI Foundations Associate",
